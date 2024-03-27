@@ -1,6 +1,6 @@
 ## 1. Definitions
 
-- **Software** refers to the suite of tools, scripts, and modules, including the OKECBOT and associated behavior models.
+- **Software** refers to the suite of tools, scripts, and modules, including the Moving Vechile Plate detection software and associated behavior models.
   
 - **Licensor** refers to the creator and holder of the Software, Jones Spencer.
   
